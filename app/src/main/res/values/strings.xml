@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="dis">TIC TAC TOE</string>
+    <string name="disc">-by RJ developer grp Pvt Ltd</string>
+</resources>
